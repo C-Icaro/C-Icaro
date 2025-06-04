@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi there! 👋 I'm Carlos Icaro, a tech enthusiast with a passion for creating innovative solutions that make a difference.<br><br>🎓 Education: <br>— I am a certified Mechatronics Technician at FMM-AM;<br>— Currently studying Computer Engineering at Inteli-SP.<br>🌱 Currently Learning JavaScript and web development.<br>🚀 Goal: To develop cutting-edge technologies that improve lives and empower businesses.<br><br>Feel free to explore my repositories and connect! 😊</p>
+<p align="left">Hi there! 👋 I'm Carlos Icaro, a tech enthusiast with a passion for creating innovative solutions that make a difference.<br><br>🎓 Education: <br>— I am a certified Mechatronics Technician at FMM-AM;<br>— Currently studying Computer Engineering at Inteli-SP.<br>🌱 Currently Learning AI and Web3.<br>🚀 Goal: To develop cutting-edge technologies that improve lives and empower businesses.<br><br>Feel free to explore my repositories and connect! 😊</p>
 
 ###
 
