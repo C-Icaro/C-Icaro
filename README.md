@@ -1,66 +1,87 @@
-<h2 align="left">What's up? My name is Carlos Icaro!!</h2>
+<h1 align="center">Carlos Icaro Kauã</h1>
+<h3 align="center">Tech Explorer | AI & Web3 Enthusiast | Mechatronics ↔ Software</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Let's+build+tech+that+matters.;AI%2C+Web3%2C+IoT+and+more." alt="Typing SVG" />
+</p>
 
-<h3 align="left">About me💡</h3>
 
-###
 
-<p align="left">Hi there! 👋 I'm Carlos Icaro, a tech enthusiast with a passion for creating innovative solutions that make a difference.<br><br>🎓 Education: <br>— I am a certified Mechatronics Technician at FMM-AM;<br>— Currently studying Computer Engineering at Inteli-SP.<br>🌱 Currently Learning AI and Web3.<br>🚀 Goal: To develop cutting-edge technologies that improve lives and empower businesses.<br><br>Feel free to explore my repositories and connect! 😊</p>
+## 👨‍💻 About Me
 
-###
+🎓 **Education:**
+- Certified Mechatronics Technician — *FMM-AM*
+- Computer Engineering Student — *Inteli-SP*
 
-<h4 align="left">Vidratus Project🛠️💡</h4>
+🧠 **Currently Learning:**
+- Artificial Intelligence (ML/DL, LLMs)
+- Web3 & Blockchain (Solidity, Ethereum, Smart Contracts)
+- Full-Stack Web Development (Flask, React)
 
-###
+🌎 **Passionate About:**
+- Inovation in tech
+- Entrepreneurship
+- Social Impact
 
-<p align="left">Vidratus is a glass shredding machine designed for efficient and safe recycling. It features a robust structure and a bagging system, perfect for small businesses and industries, focusing on sustainability and high performance.</p>
 
-###
 
-<h4 align="left">Buddy/Mentor</h4>
+## 💡 Highlight Project — *Vidratus*
+> A glass-shredding system for eco-conscious recycling and industrial upcycling ♻️
 
-###
+<!-- <img src="https://raw.githubusercontent.com/C-Icaro/vidratus-repo/main/demo.gif" alt="Vidratus demo" height="200"/> -->
 
-<p align="left">Marco Ruas is my buddy/mentor at Inteli, and he is an alumnus of FMM. He is currently studying Software Engineering and helps me whenever I need assistance.<br><br>His Github profile: https://github.com/MarcoPeixot</p>
+- 🛠️ Robust mechanical structure
+- 🎯 Designed for small industries & local recyclers
+- 🌱 Impact-driven project from concept to prototyping
 
-###
+## 🧭 Mentor/Buddy
 
-<h3 align="left">Tecnologies💻</h3>
+**Marco Ruas** is my current mentor and study partner at Inteli, an alumnus of FMM-AM and now a Software Engineering student.
 
-###
+🔗 [Check out his GitHub](https://github.com/MarcoPeixot)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,py,js,ts,arduino,react,html,css,firebase,git,figma,mysql" />
 </div>
 
-###
+## 📊 GitHub Stats
 
-<h3 align="left">Statistics📊</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=C-Icaro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=C-Icaro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=C-Icaro&theme=radical&show_icons=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Icaro&layout=compact&theme=radical" />
+  
 </div>
 
-###
 
-<h6 align="left">Profile visits:</h6>
 
-###
+## 🏆 GitHub Trophies
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/C-Icaro/count.svg?"  />
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=C-Icaro&theme=darkhub&margin-w=15&margin-h=15&no-frame=true" />
+
 </div>
 
-###
+
+
+## 📈 Profile Views
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/C-Icaro/count.svg" />
+</div>
+
+
+
+## 🌐 Let's Connect!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/carlos-icaro-kaua/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@dominio.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</div>
+
