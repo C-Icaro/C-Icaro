@@ -85,6 +85,17 @@ flowchart LR
 
 ## GitHub signals
 
+| Stable signal | Evidence |
+| --- | --- |
+| **Public footprint** | 36 public repositories published under [C-Icaro](https://github.com/C-Icaro?tab=repositories). |
+| **Pinned public work** | [Vidratus](https://github.com/C-Icaro/Vidratus), [arduino-mecatronica-fmm](https://github.com/C-Icaro/arduino-mecatronica-fmm) and [CPU_AND_ALU_8bits](https://github.com/C-Icaro/CPU_AND_ALU_8bits). |
+| **Recent build themes** | TypeScript web products, Python/computer vision challenges, Arduino/ESP32 automation and engineering notebooks. |
+
+<details>
+<summary><strong>View visual GitHub stats</strong></summary>
+
+<br>
+
 <div align="center">
   <img width="760" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C-Icaro&theme=github_dark" alt="GitHub profile contribution summary for C-Icaro">
 </div>
@@ -103,11 +114,7 @@ flowchart LR
   <img width="760" src="https://streak-stats.demolab.com?user=C-Icaro&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for C-Icaro">
 </div>
 
-| Stable signal | Evidence |
-| --- | --- |
-| **Public footprint** | 36 public repositories published under [C-Icaro](https://github.com/C-Icaro?tab=repositories). |
-| **Pinned public work** | [Vidratus](https://github.com/C-Icaro/Vidratus), [arduino-mecatronica-fmm](https://github.com/C-Icaro/arduino-mecatronica-fmm) and [CPU_AND_ALU_8bits](https://github.com/C-Icaro/CPU_AND_ALU_8bits). |
-| **Recent build themes** | TypeScript web products, Python/computer vision challenges, Arduino/ESP32 automation and engineering notebooks. |
+</details>
 
 ---
 
