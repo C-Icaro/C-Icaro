@@ -85,13 +85,29 @@ flowchart LR
 
 ## GitHub signals
 
-| Signal | Evidence |
+<div align="center">
+  <img width="760" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C-Icaro&theme=github_dark" alt="GitHub profile contribution summary for C-Icaro">
+</div>
+
+<div align="center">
+  <img width="370" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=C-Icaro&theme=github_dark" alt="Repositories per language for C-Icaro">
+  <img width="370" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=C-Icaro&theme=github_dark" alt="Most committed languages for C-Icaro">
+</div>
+
+<div align="center">
+  <img width="370" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=C-Icaro&theme=github_dark" alt="GitHub profile stats for C-Icaro">
+  <img width="370" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=C-Icaro&theme=github_dark&utcOffset=-3" alt="Most productive commit time for C-Icaro">
+</div>
+
+<div align="center">
+  <img width="760" src="https://streak-stats.demolab.com?user=C-Icaro&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for C-Icaro">
+</div>
+
+| Stable signal | Evidence |
 | --- | --- |
 | **Public footprint** | 36 public repositories published under [C-Icaro](https://github.com/C-Icaro?tab=repositories). |
 | **Pinned public work** | [Vidratus](https://github.com/C-Icaro/Vidratus), [arduino-mecatronica-fmm](https://github.com/C-Icaro/arduino-mecatronica-fmm) and [CPU_AND_ALU_8bits](https://github.com/C-Icaro/CPU_AND_ALU_8bits). |
 | **Recent build themes** | TypeScript web products, Python/computer vision challenges, Arduino/ESP32 automation and engineering notebooks. |
-| **Visible value pattern** | Projects connect a problem, a prototype, implementation evidence and a learning trail. |
-| **Where to inspect more** | Browse the full repository list, pinned work and commit history on the [GitHub profile](https://github.com/C-Icaro). |
 
 ---
 
