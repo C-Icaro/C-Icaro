@@ -52,16 +52,7 @@ I build at the intersection of **software, mechatronics, AI and product thinking
 | [desktop_app_for_music_learning](https://github.com/C-Icaro/desktop_app_for_music_learning) | Desktop learning experience that combines interface design and educational product thinking. | TypeScript, desktop app |
 | [Computing-Engineering-Bachelor](https://github.com/C-Icaro/Computing-Engineering-Bachelor) | Public trail of engineering studies, notebooks and technical practice. | Jupyter Notebook, engineering |
 
-<div align="center">
-
-<a href="https://github.com/C-Icaro/Vidratus">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=C-Icaro&repo=Vidratus&theme=transparent&hide_border=true" alt="Vidratus repository card">
-</a>
-<a href="https://github.com/C-Icaro/arduino-mecatronica-fmm">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=C-Icaro&repo=arduino-mecatronica-fmm&theme=transparent&hide_border=true" alt="Arduino mechatronics repository card">
-</a>
-
-</div>
+> Quick read: the public portfolio already spans physical products, embedded systems, software interfaces, computer vision challenges and engineering learning trails.
 
 ## How I like to work
 
@@ -94,10 +85,13 @@ flowchart LR
 
 ## GitHub signals
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=C-Icaro&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="Carlos Icaro GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Icaro&layout=compact&theme=transparent&hide_border=true" alt="Carlos Icaro top languages">
-</div>
+| Signal | Evidence |
+| --- | --- |
+| **Public footprint** | 36 public repositories published under [C-Icaro](https://github.com/C-Icaro?tab=repositories). |
+| **Pinned public work** | [Vidratus](https://github.com/C-Icaro/Vidratus), [arduino-mecatronica-fmm](https://github.com/C-Icaro/arduino-mecatronica-fmm) and [CPU_AND_ALU_8bits](https://github.com/C-Icaro/CPU_AND_ALU_8bits). |
+| **Recent build themes** | TypeScript web products, Python/computer vision challenges, Arduino/ESP32 automation and engineering notebooks. |
+| **Visible value pattern** | Projects connect a problem, a prototype, implementation evidence and a learning trail. |
+| **Where to inspect more** | Browse the full repository list, pinned work and commit history on the [GitHub profile](https://github.com/C-Icaro). |
 
 ---
 
