@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://github.com/C-Icaro?tab=repositories">
-    <img alt="Public repositories" src="https://img.shields.io/badge/public%20repos-36-0F172A?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="Public repositories" src="https://img.shields.io/badge/public%20repos-41-0F172A?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <img alt="Applied AI" src="https://img.shields.io/badge/applied%20AI-product%20engineering-2563EB?style=for-the-badge">
   <img alt="IoT and Edge" src="https://img.shields.io/badge/IoT%20%2B%20Edge-prototyping-0F766E?style=for-the-badge">
@@ -45,14 +45,16 @@ I build at the intersection of **software, mechatronics, AI and product thinking
 
 | Project | What it shows | Stack / domain |
 | --- | --- | --- |
+| [edge-ai-condition-monitor](https://github.com/C-Icaro/edge-ai-condition-monitor) | ESP32-S3 edge AI condition monitoring with evidence-driven engineering and honest validation. | Python, edge AI, IoT |
+| [vibration-first-condition-monitor](https://github.com/C-Icaro/vibration-first-condition-monitor) | Vibration-first edge condition monitor with synthetic telemetry, local inference concepts and a visual simulator. | Edge AI, signal processing |
+| [ponderada-mlp-mnist-numpy](https://github.com/C-Icaro/ponderada-mlp-mnist-numpy) | MLP built from scratch in NumPy to classify MNIST — machine learning fundamentals without frameworks. | Python, machine learning |
 | [Vidratus](https://github.com/C-Icaro/Vidratus) | Sustainability project: glass-shredding machine with bagging system, from concept to prototype narrative. | Hardware, product design, HTML |
 | [arduino-mecatronica-fmm](https://github.com/C-Icaro/arduino-mecatronica-fmm) | Arduino/ESP32 portfolio with IoT, home automation, electronic scoreboards, weather stations and Factory.io simulations. | C++, Arduino, IoT, automation |
 | [HackCafe](https://github.com/C-Icaro/HackCafe) | Hackathon solution built under delivery pressure, connecting product framing and implementation. | TypeScript, web product |
 | [desafio-legitimuz-where-is-waldo-wally](https://github.com/C-Icaro/desafio-legitimuz-where-is-waldo-wally) | Image-processing challenge focused on detection, search and practical computer vision reasoning. | Python, computer vision |
-| [desktop_app_for_music_learning](https://github.com/C-Icaro/desktop_app_for_music_learning) | Desktop learning experience that combines interface design and educational product thinking. | TypeScript, desktop app |
 | [Computing-Engineering-Bachelor](https://github.com/C-Icaro/Computing-Engineering-Bachelor) | Public trail of engineering studies, notebooks and technical practice. | Jupyter Notebook, engineering |
 
-> Quick read: the public portfolio already spans physical products, embedded systems, software interfaces, computer vision challenges and engineering learning trails.
+> Quick read: the public portfolio spans edge AI, physical products, embedded systems, software interfaces, computer vision challenges and engineering learning trails.
 
 ## How I like to work
 
@@ -80,16 +82,17 @@ flowchart LR
 ## Current direction
 
 - Building stronger bridges between **AI, automation and product delivery**.
-- Deepening work in **computer vision, edge systems and IoT prototypes**.
+- Deepening work in **edge AI, condition monitoring, computer vision and IoT prototypes**.
+- Applying LLMs and agentic workflows to **personal knowledge systems and product tooling**.
 - Turning experiments into clearer public artifacts: demos, READMEs, architecture notes and validation evidence.
 
 ## GitHub signals
 
 | Stable signal | Evidence |
 | --- | --- |
-| **Public footprint** | 36 public repositories published under [C-Icaro](https://github.com/C-Icaro?tab=repositories). |
+| **Public footprint** | 41 public repositories published under [C-Icaro](https://github.com/C-Icaro?tab=repositories). |
 | **Pinned public work** | [Vidratus](https://github.com/C-Icaro/Vidratus), [arduino-mecatronica-fmm](https://github.com/C-Icaro/arduino-mecatronica-fmm) and [CPU_AND_ALU_8bits](https://github.com/C-Icaro/CPU_AND_ALU_8bits). |
-| **Recent build themes** | TypeScript web products, Python/computer vision challenges, Arduino/ESP32 automation and engineering notebooks. |
+| **Recent build themes** | Edge AI condition monitoring, Python/computer vision challenges, TypeScript web products, Arduino/ESP32 automation and engineering notebooks. |
 
 <details>
 <summary><strong>View visual GitHub stats</strong></summary>
